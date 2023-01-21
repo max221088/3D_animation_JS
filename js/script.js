@@ -1,7 +1,7 @@
 const $box = document.querySelector(".box");
 let startTime = new Date().getTime();
 let curentTime = null;
-console.log(startTime);
+//console.log(startTime);
 let deg = 0;
 
 function rotate() {
